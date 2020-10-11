@@ -20,7 +20,12 @@ Al contrario de lo muchos piensan, el nombre de Disble no viene de disable, sino
 El primer lenguaje de Disble es Java.
 
 ```java
-System.out.println("Hola mundo");
+public void saludar(String saludo) {
+  System.out.println(saludo);
+}
+String saludo = "Hola mundo";
+saludar(saludo);
+
 ```
 
 La primera línea de código de Disble.
