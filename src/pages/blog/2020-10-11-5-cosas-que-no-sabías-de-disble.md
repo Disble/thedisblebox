@@ -13,3 +13,4 @@ tags:
 
 Al contrario de lo muchos piensan, el nombre de Disble no viene de disable, sino de Gible, si el pokemon.
 
+![Gible](/img/443gible.webp "Un confusión llevo a la creación un nickname que llevaría de por vida.")
